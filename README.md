@@ -9,7 +9,7 @@ Groundbreaking innovations often come wrapped in complexity. My job is to unwrap
 * 🌍  I'm based in India
 * ✉️  You can contact me at [priyachristina8@gmail.com](mailto:priyachristina8@gmail.com)
 * 🧠  Expanding my expertise in visual narrative techniques and human-centered design thinking frameworks
-* 🤝  I'm open to collaborating on Hardware and Software documentation
+* 🤝  I'm open to collaborating on **Hardware and Software documentation**
 
 ### Skills
 
@@ -24,6 +24,7 @@ Groundbreaking innovations often come wrapped in complexity. My job is to unwrap
 - Knowledge Base Articles
 - Process Documentation
 - Release Notes
+- Spec sheets, Install guide and Firmware documentation
 - Video Tutorials
 - Flowcharts and Diagrams
 - Interactive Documentation
