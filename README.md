@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technical Writer | Information Design & Developer | Technical Visual Communicator
 ---------------------------------------------------------------------------------
 
-Groundbreaking innovations often come wrapped in complexity. My job is to unwrap these innovations and present them in a way that people can not only understand but also relate to..
+Groundbreaking innovations often come wrapped in complexity. My job is to unwrap these innovations and present them in a way that people can not only understand but also relate to.. I'm a Technical communicator..
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [priyachristina8@gmail.com](mailto:priyachristina8@gmail.com)
