@@ -24,7 +24,7 @@ Groundbreaking innovations often come wrapped in complexity. My job is to unwrap
 - Knowledge Base Articles
 - Process Documentation
 - Release Notes
-- Spec sheets, Install guide and Firmware documentation
+- Spec sheets, Install guides and Firmware documentation
 - Video Tutorials
 - Flowcharts and Diagrams
 - Interactive Documentation
@@ -32,9 +32,9 @@ Groundbreaking innovations often come wrapped in complexity. My job is to unwrap
 ### Technical Toolkit
 - **Documentation Platforms:** Confluence, GitHub Pages, GitBook, ReadTheDocs
 - **Markup Languages:** Markdown, HTML, XML, reStructuredText
-- **Tools:** DITA, MadCap Flare, Robohelp, Adobe FrameMaker, Oxygen XML Editor
+- **Tools:** DITA, MadCap Flare, Robohelp, Adobe FrameMaker, Oxygen XML Editor, Arbortext Editor
 - **Version Control:** Git, GitHub, GitLab
-- **API Tools:** Swagger/OpenAPI, Postman
+- **API Tools:** Swagger/OpenAPI, Postman, Doxygen
 - **CMS:** Salesforce, Zendesk, SharePoint
 - **Graphics:** Adobe Photoshop, Illustrator, ADobe after effects, Canva, ADobe express, CorelDraw, Figma, Lucidchart, Ms Visio
 
