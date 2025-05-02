@@ -34,11 +34,12 @@ Groundbreaking innovations often come wrapped in complexity. My job is to unwrap
 - **Tools:** DITA, MadCap Flare, Adobe FrameMaker, Oxygen XML Editor
 - **Version Control:** Git, GitHub, GitLab
 - **API Tools:** Swagger/OpenAPI, Postman
-- **CMS:** WordPress, Drupal
-- **Graphics:** Adobe Photoshop, Illustrator, Figma, Lucidchart
+- **CMS:** Salesforce, Zendesk, SharePoint
+- **Graphics:** Adobe Photoshop, Illustrator, ADobe after effects, Canva, ADobe express, CorelDraw, Figma, Lucidchart, Ms Visio
 
 ### Development Knowledge
-- Basic understanding of: HTML/CSS, JavaScript, Python, Java
+Good understanding of:
+- HTML/CSS, JavaScript, Python, Java
 - REST API concepts and architecture
 - CI/CD workflows
 - Agile development practices
