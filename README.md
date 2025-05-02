@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priya Christina
 =======================================================================================================================================
 
-Technical Writer | Information Design & Developer | Technical Visual Communicator
+I'm a Technical Writer | Information Design & Developer | Technical Visual Communicator
 ---------------------------------------------------------------------------------
 
 Groundbreaking innovations often come wrapped in complexity. My job is to unwrap these innovations and present them in a way that people can not only understand but also relate to.. I'm a Technical communicator..
