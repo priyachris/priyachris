@@ -36,7 +36,7 @@ Groundbreaking innovations often come wrapped in complexity. My job is to unwrap
 - **Version Control:** Git, GitHub, GitLab
 - **API Tools:** Swagger/OpenAPI, Postman, Doxygen
 - **CMS:** Salesforce, SharePoint
-- **Graphics:** Adobe Photoshop, Illustrator, ADobe after effects, Canva, ADobe express, CorelDraw, Figma, Lucidchart, Ms Visio
+- **Graphics:** Adobe Photoshop, Adobe Illustrator, Adobe after effects, Canva, Adobe express, Adobe InDesign, CorelDraw, Figma, Lucidchart, Ms Visio
 
 ### Development Knowledge
 Good understanding of:
