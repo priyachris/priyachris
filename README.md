@@ -32,10 +32,10 @@ Groundbreaking innovations often come wrapped in complexity. My job is to unwrap
 ### Technical Toolkit
 - **Documentation Platforms:** Confluence, GitHub Pages, GitBook, ReadTheDocs
 - **Markup Languages:** Markdown, HTML, XML, reStructuredText
-- **Tools:** DITA, MadCap Flare, Robohelp, Adobe FrameMaker, Oxygen XML Editor, Arbortext Editor
+- **Authoring Tools:** DITA XML, MadCap Flare, Robohelp, Adobe FrameMaker, Oxygen XML Editor, Arbortext Editor, Zendesk
 - **Version Control:** Git, GitHub, GitLab
 - **API Tools:** Swagger/OpenAPI, Postman, Doxygen
-- **CMS:** Salesforce, Zendesk, SharePoint
+- **CMS:** Salesforce, SharePoint
 - **Graphics:** Adobe Photoshop, Illustrator, ADobe after effects, Canva, ADobe express, CorelDraw, Figma, Lucidchart, Ms Visio
 
 ### Development Knowledge
